@@ -1,5 +1,3 @@
-0.4.2:
------
 Release date: **not yet**
 
 * `git flow init` now detects situations where origin already has gitflow
